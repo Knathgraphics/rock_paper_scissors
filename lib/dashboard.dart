@@ -291,7 +291,7 @@ class _DashboardState extends State<Dashboard> {
                 textAlign: TextAlign.justify,
               ),
               SizedBox(
-                height: 54,
+                height: 546,
               ),
             ],
           ),
